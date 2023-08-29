@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MLeder89
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript Algorithms and Data Structures
+- 🌱 I’m currently learning HTML5, CS3, and Javascript
 - 💞️ I’m looking to collaborate on anything that helps solidify my knowledge and helps others
 - 📫 How to reach me ...
 
