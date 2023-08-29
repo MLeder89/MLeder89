@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leder/Ramos-Pinto Cat Gallery </title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+	<header class="header">
+		
+		<h1>Leder/Ramos-Pinto Cat Gallery</h1>
+
+	</header>
+	<div class="gallery">
+		
+		<img src="mimi 1.jpg" alt="Mimi 1">
+		<img src="mimi 2.jpg" alt="Mimi 2">
+		<img src="mimi 3.jpg" alt= "Mimi 3">
+		<img src="mimi 4.jpg" alt= "Mimi 4">
+		<img src="mimi 5.jpg" alt= "Mimi 5">
+		<img src="mimi 6.jpg" alt= "Mimi 6">
+		<img src="pinto 1.jpg" alt= "pinto 1">
+		<img src="pinto 2.jpg" alt= "pinto 2">
+		<img src="pinto 3.jpg" alt= "pinto 3">
+	</div>
+
+
+</body>
+
+</html>
